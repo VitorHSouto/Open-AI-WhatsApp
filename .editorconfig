@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0108: O membro oculta o membro herdado; nova palavra-chave ausente
+dotnet_diagnostic.CS0108.severity = none
+
+# CS8603: Possível retorno de referência nula.
+dotnet_diagnostic.CS8603.severity = none
